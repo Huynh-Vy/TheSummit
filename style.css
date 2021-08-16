@@ -1,0 +1,61 @@
+a {
+    cursor: pointer;
+  }
+  
+  a:hover {
+    color:  #3366ff;
+  }
+  
+  a:active {
+    color: #ff1a1a;
+  }
+  
+  .nav-link {
+    color: #0033cc !important ;
+  }
+  
+  .nav-link:hover {
+    color: #4d79ff !important;
+  }
+  
+  .nav-link:active {
+    color: #ff3300 !important;
+  }
+  
+  .btn {
+    border: 1px solid #ffffff;
+    color: #b3d9ff;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0px 4px #66ccff;
+  }
+  
+  .btn:hover {
+    background-color: #66b3ff;
+    color: #ffffff;
+    transition: 0.08s ease-in;
+  }
+  
+  .btn:active {
+    background-color: #66b3ff;
+    color: #ffffff;
+    margin-top: 24px;
+    margin-bottom: 16px;
+    box-shadow: 0px 0px;
+  }
+  
+  .activity {
+    border-radius: 16px;
+  }
+  
+  .activity:hover {
+    background-color: #3399ff;
+    color: #ffff66;
+    font-weight: bold;
+  }
+  
+  .activity:active {
+    background-color: #3399ff;
+    color: #ffffff;
+    font-weight: bold;
+  }
